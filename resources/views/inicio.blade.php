@@ -99,7 +99,7 @@ Por otro lado, las redes cableadas pueden sufrir interferencias. A diferencia de
         <section class="page-section bg-light" id="portfolio">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">REDES</h2>
+                    <h2 class="section-heading text-uppercase">Contenido</h2>
                     <br>
                 </div>
                 <div class="row">
