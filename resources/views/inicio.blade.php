@@ -23,7 +23,7 @@
     <body id="page-top">
     
 </div>
-        <!-- Navigation-->
+      
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
                 <a class="navbar-brand js-scroll-trigger text-light" href="#page-top"><img src="assets/img/LOGO.png" style="width: 60px;height: 35px;" alt="..." /><b>Redes</b></a>
@@ -41,51 +41,61 @@
                       
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Importancia</a></li>
 </div>
-<!--    <a class="nav-link js-scroll-trigger btn btn-outline-light" href="#myModal" data-toggle="modal">user</a>-->
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
-        
-        <!-- Masthead-->
+  
+       
+            
         <header class="masthead">
-            <div class="container">
+            
                 
-                <div class="masthead-heading text-uppercase"><b>REDES INFORMATICAS</b></div>
-                <a  style="border-radius: 50%;" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">APRENDER MAS</a>
-            </div>
-        </header>
-        <!-- Services-->
-        <section class="page-section" id="services">
-            <div class="container">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase"> <b>Caracteristicas de las Redes informaticas</b></h2>
+            <div class="masthead-heading text-uppercase"><h1><b>REDES
+                <br> INFORMATICAS</b></h1></div>
+            <a  style="border-radius: 50%;" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">APRENDER MAS</a>
+       
+    </header>
+
+    <section class="page-section" id="services">
+       
+            <h2>
+                <b>
+                   Caracteristicas de 
+                   
+                   las Redes informaticas
+                        
+                  
+                </b>
+            </h2>
+            
+            <div class="row text-center">
+                <div class="col-md-4">
                     
-                </div>
-                <div class="row text-center">
-                    <div class="col-md-4">
-                        
-                         <img src="assets/ico/1.png" style="width: 220px;height: 220px;"alt="">
-                        
-                        <h3 class="my-3"><b>Seguridad</b></h3>
-                        <p class="text-muted">Es uno de los aspectos más peligrosos que rodean a las redes inalámbricas, La aparición de intrusos que nos quitan el ancho de banda es una de las razones que convierten a estas redes en   vulnerables.
+                     <img src="assets/ico/1.png" style="width: 220px;height: 220px;"alt="">
+                    
+                    <h3 class="my-3"><b>Seguridad</b></h3>
+                    <p class="text-muted">Es uno de los aspectos más peligrosos que rodean a las redes inalámbricas, La aparición de intrusos que nos quitan el ancho de banda es una de las razones que convierten a estas redes en   vulnerables.
 Por otro lado, las redes cableadas pueden sufrir interferencias. A diferencia de estas, la fibra óptica es la que ofrece una mayor seguridad.</p>
-                    </div>
-                    <div class="col-md-4">
-                       <img src="assets/ico/2.png" style="width: 220px;height: 220px;"alt="">
-                        <h3 class="my-3"><b>Velocidad</b></h3>
-                        <p class="text-muted">Es la velocidad a la que se transmiten los datos por segundo a través de la red. Suelen medirse con un test de velocidad. La rapidez de subida y descarga de datos será diferente según los estándares que utilicemos y también según el tipo de red o medio a través del que se transmiten los datos (inalámbrica, fibra óptica, cables de teléfono o coaxial).</p>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="assets/ico/3.png" style="width: 220px;height: 220px;"alt="">
-                        <h3 class="my-3"><b>Disponibilidad</b></h3>
-                        <p class="text-muted">Es la capacidad que posee una red para encontrarse disponible y completamente activa cuando la necesitamos. Hablamos de la cantidad de tiempo posible en que podemos someter los nodos a unas condiciones de rendimiento necesarias en nuestra empresa. El objetivo es conseguir que la red se halle disponible según las necesidades de uso para las que se ha instalado.</p>
-                    </div>
+                </div>
+                <div class="col-md-4">
+                   <img src="assets/ico/2.png" style="width: 220px;height: 220px;"alt="">
+                    <h3 class="my-3"><b>Velocidad</b></h3>
+                    <p class="text-muted">Es la velocidad a la que se transmiten los datos por segundo a través de la red. Suelen medirse con un test de velocidad. La rapidez de subida y descarga de datos será diferente según los estándares que utilicemos y también según el tipo de red o medio a través del que se transmiten los datos (inalámbrica, fibra óptica, cables de teléfono o coaxial).</p>
+                </div>
+                <div class="col-md-4">
+                    <img src="assets/ico/3.png" style="width: 220px;height: 220px;"alt="">
+                    <h3 class="my-3"><b>Disponibilidad</b></h3>
+                    <p class="text-muted">Es la capacidad que posee una red para encontrarse disponible y completamente activa cuando la necesitamos. Hablamos de la cantidad de tiempo posible en que podemos someter los nodos a unas condiciones de rendimiento necesarias en nuestra empresa. El objetivo es conseguir que la red se halle disponible según las necesidades de uso para las que se ha instalado.</p>
                 </div>
             </div>
-        </section>
-        <!-- Portfolio Grid-->
+         
+      
+    </section>
+       </div>
+     
+      
         <section class="page-section bg-light" id="portfolio">
             <div class="container">
                 <div class="text-center">
@@ -99,7 +109,7 @@ Por otro lado, las redes cableadas pueden sufrir interferencias. A diferencia de
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/01-thumbnail.jpg" style="height: 200px; width: 100%;" alt="..." />
+                                <img class="img-fluid" src="assets/img/portfolio/01-thumbnail.jpg"  alt="Responsive image" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">¿Que es una red informatica?</div>
@@ -168,11 +178,6 @@ Por otro lado, las redes cableadas pueden sufrir interferencias. A diferencia de
             </div>
         </section>
         
-        <!-- Team-->
-        
-        <!-- Clients-->
-        
-        <!-- Contact-->
         <section class="page-section" id="contact">
             <div class="container">
                 <div class="text-center">
@@ -228,7 +233,9 @@ Por otro lado, las redes cableadas pueden sufrir interferencias. A diferencia de
                    
             </div>
         </section>
-        <!-- Footer-->
+       
+        
+        
         <footer class="footer py-4">
             <div class="container">
                 <div class="row align-items-center">
@@ -249,8 +256,7 @@ Por otro lado, las redes cableadas pueden sufrir interferencias. A diferencia de
                 </div>
             </div>
         </footer>
-        <!-- Portfolio Modals-->
-        <!-- Modal 1-->
+        
         <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -259,8 +265,8 @@ Por otro lado, las redes cableadas pueden sufrir interferencias. A diferencia de
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
-                                    <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">¿Que son las redes informaticas?</h2>
+                                   
+                                    <h3 class="text-uppercase">¿Que son las redes  informaticas?</h3>
                                     
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/01-full.jpg" alt="..." />
                                     <p>Las redes informáticas  en cuanto a su  lógica de funcionamiento es parecida a los procesos de comunicación conocidos: cuentan con un emisor, un receptor y un mensaje, así como un medio para transmitir  una serie de códigos o protocolos que garantizaran su comprensión. En este caso las redes quienes envían y reciben mensajes son sistemas computarizados y automatizados. Cuando se trabaja con computadora u otros dispositivos electrónicos en red, es posible crear una comunicación interna, compartir un punto de acceso a Internet o la administración de periféricos (impresoras, escáneres , entre otros.), así como el envío veloz de datos y archivos sin necesidad de dispositivos de almacenamiento secundario     (pendrays, disco duros, cd). Esto se realiza gracias a una serie de estándares de comunicación, que traducen a un mismo idioma los procesos de los diversos computadores, el más común de ellos es el TCP/IP.</p>
@@ -276,7 +282,7 @@ Por otro lado, las redes cableadas pueden sufrir interferencias. A diferencia de
                 </div>
             </div>
         </div>
-        <!-- Modal 2-->
+        
         <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -285,8 +291,8 @@ Por otro lado, las redes cableadas pueden sufrir interferencias. A diferencia de
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
-                                    <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">Tipos d redes</h2>
+                                    
+                                    <h2 class="text-uppercase">Tipos de redes</h2>
                                     
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/02-full.jpg" alt="..." />
                                     <p>
@@ -310,7 +316,7 @@ En cuanto a los tipos de redes, se debe tener en cuenta que las redes informáti
                 </div>
             </div>
         </div>
-        <!-- Modal 3-->
+        
         <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -319,7 +325,7 @@ En cuanto a los tipos de redes, se debe tener en cuenta que las redes informáti
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
-                                    <!-- Project Details Go Here-->
+                                   
                                     <h2 class="text-uppercase">Topologia</h2>
                                     
 
@@ -343,7 +349,7 @@ Un claro ejemplo  de la topología de árbol, la cual se llama así, por su apar
                 </div>
             </div>
         </div>
-        <!-- Modal 4-->
+        
         <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -352,7 +358,7 @@ Un claro ejemplo  de la topología de árbol, la cual se llama así, por su apar
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
-                                    <!-- Project Details Go Here-->
+                                  
                                     <h2 class="text-uppercase">Modelo OSI</h2>
                                     
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/04-thumbnail.jpg" alt="..." />
@@ -388,7 +394,7 @@ La capa de transporte: permite intercambiar datos entre sistemas finales, dividi
                 </div>
             </div>
         </div>
-        <!-- Modal 5-->
+       
         <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -397,7 +403,7 @@ La capa de transporte: permite intercambiar datos entre sistemas finales, dividi
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
-                                    <!-- Project Details Go Here-->
+                                    
                                     <h2 class="text-uppercase">Modelo TPC/IP</h2>
                                     
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.pNg" alt="..." />
@@ -421,7 +427,7 @@ Las capas están jerarquizadas. Cada capa se construye sobre su predecesora. El 
                 </div>
             </div>
         </div>
-        <!-- Modal 6-->
+  
         <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -430,7 +436,7 @@ Las capas están jerarquizadas. Cada capa se construye sobre su predecesora. El 
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="modal-body">
-                                    <!-- Project Details Go Here-->
+                            
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/06-full.jpg" alt="..." />
@@ -451,6 +457,7 @@ Las capas están jerarquizadas. Cada capa se construye sobre su predecesora. El 
                 </div>
             </div>
         </div>
+         
         <!-- Bootstrap core JS-->
         <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>

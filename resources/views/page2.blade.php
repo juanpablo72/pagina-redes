@@ -7,7 +7,7 @@
 		<h1><b>TOPOLOGIA</b></h1>
 		<br>
 	</div>
-	<div class="ml-5"><img class="ml-5" src="https://sites.google.com/site/tecnocompu32/_/rsrc/1410913568436/home/topologias-de-red/GRedesdecomunicaciones-img4.png" class="img-fluid" alt="Responsive image"></div>
+	<div class="ml-5"><img  style="width: 92% ;max-height: 340px; min-height: 100px;" alt="Responsive image" src="https://sites.google.com/site/tecnocompu32/_/rsrc/1410913568436/home/topologias-de-red/GRedesdecomunicaciones-img4.png" ></div>
 </div>
 
 <br>
@@ -50,20 +50,38 @@
 
 		<div class="btn-toolbar" data-toggle="buttons">
 	<div class="btn-group">
-		<button
-		 class="btn btn-success btn-lg" 
-		 onclick="myFunction()">
-		  <b>
-		  1) Punto a punto. </b>
-		   </button>
-		<button onclick="myFunction2()"  class="btn btn-success btn-lg"><b>2) En bus.</b> </button>
-		<button onclick="myFunction3()"class="btn btn-success btn-lg" ><b>3) En estrella.</b> </button>
-		<button onclick="myFunction4()" class="btn btn-success btn-lg" ><b> 4) En anillo o circular.</b> </button>
-		<button onclick="myFunction5()" class="btn btn-success btn-lg" ><b> 5)  En árbol</b> </button>
-		<button onclick="myFunction6()" class="btn btn-success btn-lg" ><b> 6) En malla. .</b> </button>
-		<button onclick="myFunction7()" class="btn btn-success btn-lg" ><b> 7) Topología híbrida</b> </button>
-		
+		<div class="row">
+			<div class="col-md-2 col-sm-3 mt-2">
+				<button
+		 class="btn btn-success btn-lg"  onclick="myFunction()">  <b> 1) Punto a punto. </b></button>
+
+			</div>
+			<div class="col-md-2 col-sm-3 mt-2">
+				<button onclick="myFunction2()"  class="btn btn-success btn-lg"><b>2) En bus.</b> </button>
 	
+			</div>
+			<div class="col-md-2 col-sm-3 mt-2"> <button onclick="myFunction3()"class="btn btn-success btn-lg" ><b>3) En estrella.</b> </button>
+			</div>
+			<div class="col-md-2 col-sm-3 mt-2">
+				<button onclick="myFunction4()" class="btn btn-success btn-lg" ><b> 4) En anillo o circular.</b> </button>
+
+			</div>
+			<div class="col-md-1 col-sm-3 mt-2">
+				<button onclick="myFunction5()" class="btn btn-success btn-lg" ><b> 5) En árbol</b> </button>
+	
+			</div>
+			<div class="col-md-1 col-sm-3 mt-2">
+				<button onclick="myFunction6()" class="btn btn-success btn-lg" ><b> 6)En malla</b> </button>
+	
+			</div>
+			<div class="col-md-2 col-sm-3 mt-2">
+				<button onclick="myFunction7()" class="btn btn-success btn-lg" ><b> 7) Topología híbrida</b> </button>
+		
+
+			</div>
+		</div>
+		
+							
 	</div>
 </div>
 	</div>

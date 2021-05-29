@@ -25,6 +25,7 @@ Este modelo se ha refinado con el tiempo y hoy ofrece siete capas distintas con 
 	</div>
 </div>
 
+
 <div class="container">
 	<div class="text-center">
 		<h3><b>
@@ -64,10 +65,98 @@ El Modelo OSI no es una topología de red, ni un modelo de red en sí mismo, ni 
 		</p>
 	</div>
 </div>
+<div class="text-center	">
+	<h3>Capas del modelo OSI</h3>
+</div>
+<div class="row">
+	<div class="col-md-6 col-sm-12">
+		<div class="container">
+			<div class="d-grid gap-2 col-3 mx-auto">
+				<button  onclick="myFunction1()" class="btn btn-success" type="button">Capa de aplicación</button>
+				
+			  </div>
+			<div class="d-grid gap-2 col-4 mx-auto">
+				<button onclick="myFunction2()" class="btn btn-warning" type="button">Capa de presentación</button>
+				
+			  </div>
+			<div class="d-grid gap-2 col-5 mx-auto">
+				<button onclick="myFunction3()" class="btn btn-info" type="button">Capa de sesión</button>
+				
+			  </div>
+			<div class="d-grid gap-2 col-6 mx-auto">
+				<button onclick="myFunction4()" class="btn btn-danger" type="button">Capa de transporte.</button>
+				
+			  </div>
+			  <div class="d-grid gap-3 col-7 mx-auto">
+				<button onclick="myFunction5()" class="btn btn-dark" type="button">Capa de red</button>
+				
+			  </div>
+			  <div class="d-grid gap-2 col-8 mx-auto">
+				<button onclick="myFunction6()" class="btn btn-primary" type="button">Capa de enlace de datos</button>
+				
+			  </div>
+			  <div class="d-grid gap-2 col-9 mx-auto">
+				<button onclick="myFunction7()" class="btn btn-secondary" type="button">Capa física</button>
+				
+			  </div>
+		</div>
+	</div>
+	<div class="col-md-6 col-sm-12 mt-2">
+		<div class="card">
+			<div class="" id="tema1">
+				<p><b>Capa de aplicación.</b>
+					 Dado que continuamente se desarrollan nuevos protocolos
+					  de comunicación, a medida que surgen nuevas aplicaciones,
+					   esta última capa define los protocolos que emplean las 
+					   aplicaciones para el intercambio de datos y les permite
+					    acceder a los servicios de cualquiera de las demás capas.
+						Generalmente, todo este proceso es invisible para el 
+						usuario, quien rara vez interactúa con el nivel aplicación,
+						 sino con programas que interactúan con el nivel aplicación,
+						 haciéndoselo menos complejo de lo que realmente es.
 
+					</p>
+			</div>
+			<div class="" id="tema2">
+				<p>
+					<b>Capa de presentación.</b> Esta capa se ocupa de la representación de la información, o sea, de su traducción, garantizando que los datos recibidos en cualquier extremo de la red sean del todo reconocibles, sin importar el tipo de sistema empleado. Es la primera capa que se ocupa del contenido de la transmisión, en vez del modo en que ésta se establece y se sostiene. Además, permite el cifrado y la codificación de los datos, así como su compresión, su adecuación a la máquina que los recibe (una computadora, una tableta, un celular, etc.).
+
+						
+				</p>
+			</div>
+			<div class="" id="tema3">
+				<p>  <b> Capa de sesión.</b>  Se encarga de controlar y mantener el vínculo entre las computadoras que intercambian datos, asegurándose de que, una vez establecida la comunicación entre ambos sistemas, el canal de transmisión de datos pueda retomarse en caso de interrumpirse. Estos servicios pueden llegar a ser prescindibles parcial o totalmente, dependiendo del caso.
+
+					</p>
+			</div>
+			<div class="" id="tema4">
+				<p><b>Capa de transporte.</b> Aquí es donde se realiza el transporte de los datos que se hallan dentro de cada paquete, de la computadora de origen a la de destino, independientemente del medio físico que se emplee para ello. Su trabajo se da mediante puertos lógicos y da forma a los llamados Sockets IP: Puerto.
+
+					</p>
+			</div>
+			<div class="" id="tema5">
+<p>
+	 <b>Capa de red. </b>  Es la capa que se encarga de la identificación del enrutamiento existente entre las redes involucradas, así, las unidades de datos pasan a denominarse “paquetes” y pueden clasificarse conforme al protocolo de enrutamiento o protocolo enrutable que utilizan. Los primeros seleccionan las rutas (RIP, IGRP, EIGRP, entre otras) y los segundos viajan con los paquetes (IP, IPX, APPLETALK, etc.). El objetivo de esta capa es garantizar que los datos lleguen a su destino, incluso si ello implica utilizar dispositivos intermedios, como encaminadores o enrutadores.
+
+	 
+	 </p>
+			</div>
+			<div class="" id="tema6">
+					<p>  <b>Capa de enlace de datos.</b> Se ocupa del redireccionamiento físico, detección de errores, acceso al medio y control del flujo durante la comunicación, siendo parte de la creación de protocolos básicos para regular la conexión entre los sistemas informáticos.
+
+						
+						</p>
+			</div>
+			<div class="" id="tema7">
+<p> <b>Capa física. </b> La capa más baja del modelo, se encarga de la topología de red y las conexiones globales entre la computadora y la red, refiriéndose tanto al medio físico como a la manera en que la información se transmite. Cumple con las funciones de especificar la información sobre el medio físico (tipos de cable, microondas, etc.), definir la información sobre la tensión eléctrica de la transmisión, las características funcionales de la interfaz de red y garantizar la existencia de una conexión (aunque no la fiabilidad de la misma).
+</p>
+			</div>
+		</div>
+	</div>
+</div>
 <br>
 <div class="container">
-	<iframe width="100%" height="480" src="https://www.youtube.com/embed/WeP7zbuj36Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="100%" height="480" max-height="340px" min-height=" 100px" src="https://www.youtube.com/embed/WeP7zbuj36Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

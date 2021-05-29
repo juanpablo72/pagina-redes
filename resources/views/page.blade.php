@@ -10,7 +10,7 @@
 	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img style="width: 100%;height: 450px;"  class="d-block w-100" src="https://www.caracteristicas.co/wp-content/uploads/2018/10/redes-de-computadoras-2-e1582281855505.jpg" alt="First slide">
+      <img style="width: 100%;height: 450px;" class="" alt="Responsive image"  class="d-block w-100" src="https://www.caracteristicas.co/wp-content/uploads/2018/10/redes-de-computadoras-2-e1582281855505.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
       <img style="width: 100%;height: 450px;" class="d-block w-100" src="https://www.avantel.co/blog/wp-content/uploads/2019/07/24.Por-qu%C3%A9-son-importantes-las-redes-inform%C3%A1ticas.jpg" alt="Second slide">
@@ -35,18 +35,33 @@
 
 	<div style="margin-left: 10%;">
 
-		<div class="btn-toolbar" data-toggle="buttons">
-	<div class="btn-group">
-		<button
-		 class="btn btn-success btn-lg" 
-		 onclick="myFunction()">
-		  <b>
-		  Redes LAN</b>
-		   </button>
-		<button onclick="myFunction2()"  class="btn btn-success btn-lg"><b>Redes MAN</b> </button>
-		<button onclick="myFunction3()"class="btn btn-success btn-lg" ><b>Redes WAN</b> </button>
-		<button onclick="myFunction4()" class="btn btn-success btn-lg" ><b>Personal Area Networks (PAN) </b> </button>
-		
+
+		<div class="row">
+			<div class="col-md-3 col-sm-6 mt-2 ">
+				<button
+				class="btn btn-success btn-lg" onclick="myFunction()">
+				 <b>
+				 Redes LAN</b>
+				  </button>
+			
+			   
+			</div>
+			<div class="col-md-3 col-sm-12 mt-2">
+				
+			   <button onclick="myFunction2()"  class="btn btn-success btn-lg"><b>Redes MAN</b> </button>
+			   
+			</div>
+			<div class="col-md-3 col-sm-6 mt-2">
+				<button onclick="myFunction3()"class="btn btn-success btn-lg" ><b>Redes WAN</b> </button>
+				
+			</div>
+			<div class="col-md-3 col-sm-6 mt-2">
+				
+				<button onclick="myFunction4()" class="btn btn-success btn-lg" ><b>Redes PAN </b> </button>
+			
+			</div>
+				
+		</div>
 	
 	</div>
 </div>
@@ -57,7 +72,7 @@
 		<div class="mt-3 mr-4 ml-4 mb-3">
 			 <div class="container text-center" id="tema1">
 			 	<h3>Redes LAN. Siglas de Local Area Network (en inglés: “Red de Área Local”), </h3>
-			 	<img src="https://userscontent2.emaze.com/images/9d49f475-f434-4b80-9bd8-1dbe389f2c43/d6df5cb69d32d686eb88faa20d35b6fa.jpg" class="img-fluid" alt="Responsive image">
+			 	<img  src="https://userscontent2.emaze.com/images/9d49f475-f434-4b80-9bd8-1dbe389f2c43/d6df5cb69d32d686eb88faa20d35b6fa.jpg" class="img-fluid" alt="Responsive image">
 			 	<p><b><h4>¿Qué es una red LAN?</b></h4>
 			 		<br>
 Es posible utilizar este tipo de red en múltiples instituciones para que se realicen sus tareas. Se comenzó introduciendo esta tecnología en redes militares, hasta llegar a escuelas y hospitales.
@@ -72,7 +87,7 @@ La red LAN (Local Area Network) es una red que conecta uno o más ordenadores de
 	</b>
 	<br>Inicialmente se partió de la idea de que había que compartir los resultados de los estudios que se realizaban en diferentes universidades y laboratorios. Esto se podía hacer simplemente, si encontraban la manera de conectar los dispositivos que se utilizaban para trabajar. Estos pensamientos fueron los precursores de las redes Ethernet y luego las LAN e Internet.
 </p>
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/jV6TGWK-J8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="img-fluid" alt="Responsive image"  src="https://www.youtube.com/embed/jV6TGWK-J8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			 </div>
 			 <div class="container text-center" id="tema2">
 			 	<h3><b>Red MAN</b></h3>
