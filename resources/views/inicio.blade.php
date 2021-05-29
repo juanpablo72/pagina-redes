@@ -326,7 +326,7 @@ En cuanto a los tipos de redes, se debe tener en cuenta que las redes informáti
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                    
-                                    <h2 class="text-uppercase">Topologia</h2>
+                                    <h3 class="text-uppercase">Topologia</h3>
                                     
 
 Se denomina  topología de red a todo aquel modelo de interconexión según el cual estén  relacionadas  entre clientes y servidores. En pocas palabras es como un mapa físico o el mapa  lógico de una red en el cual se muestra el intercambio de datos. Es decir aquella  forma en que está diseñada la red, sea en un  plano físico o  un plano lógico. Una red se definiría como aquel conjunto de nodos interconectados entre si. Recordando que un nodo es el punto en el que una curva se intercepta a sí misma. Lo que un nodo es concretamente depende del tipo de red en cuestión.
@@ -406,7 +406,7 @@ La capa de transporte: permite intercambiar datos entre sistemas finales, dividi
                                     
                                     <h2 class="text-uppercase">Modelo TPC/IP</h2>
                                     
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.pNg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.png" alt="..." />
                                     <p>El modelo TCP/IP es una descripción de protocolos de red creado por Vinton Cerf y Robert E. Kahn, en la década de 1970. Fue implantado en la red ARPANET, la primera red de área amplia (WAN), desarrollada por encargo de DARPA, una agencia del Departamento de Defensa de los Estados Unidos, y predecesora de Internet; por esta razón, a veces también se le llama modelo DoD o modelo DARPA.
 
 El modelo TCP/IP es usado para comunicaciones en redes y, como todo protocolo, describe un conjunto de guías generales de operación para permitir que un equipo pueda comunicarse en una red. TCP/IP provee conectividad de extremo a extremo especificando cómo los datos deberían ser formateados, direccionados, transmitidos, enrutados y recibidos por el destinatario.
